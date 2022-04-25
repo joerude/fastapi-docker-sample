@@ -6,6 +6,8 @@ SQLAlchemy + Alembic для управления миграциями, PostgreSQ
 
 # Запуск
 
+<p>Настройте параметры конфигураций базы данных Postgres в файле <b>.env</b></p>
+
 В командой строке запустите
 ```
 docker-compose build
